@@ -52,8 +52,11 @@ body {
 
 .container-lg {
   border-width: 1dvh;
+  max-width: 80%;
 }
-
+.d-flex {
+  flex-wrap: nowrap;
+}
 textarea {
   background: transparent;
   border: none;
