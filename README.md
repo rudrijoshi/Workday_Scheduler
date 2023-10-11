@@ -23,7 +23,7 @@ their fingertips.
 
 Screenshot of Work Day Scheduler
 
-![screenshot of work day scheduler](./Assets/Image.png)
+![screenshot of work day scheduler](./Assets/workdaysch.png)
 
 ## Credits
 
