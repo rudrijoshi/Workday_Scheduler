@@ -1,8 +1,6 @@
 # Third-Party APIs: Work Day Scheduler
 
-## Description
-
-The Daily Planner is a productivity tool designed to help busy employees effectively manage their time by adding and
+## DescriptionThe Daily Planner is a productivity tool designed to help busy employees effectively manage their time by adding and
 organizing important events throughout the day. This intuitive web application displays the current day, provides timeblocks
 for standard business hours, and color-codes events to indicate whether they are in the past, present, or future. Users can
 easily enter, save, and retrieve their daily schedule, ensuring that their important tasks arewell-organized and always at
